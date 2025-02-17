@@ -56,7 +56,14 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
     - 단순 연결리스트 [노트북](./day10/da04_linked_list.ipynb)
 
 ### 11일차 : 2월 17일 
-    - 연결리스트 :  [파이썬](./day11/da01_linked_list.py)
-        - 연결리스트 응용 : [파이썬](./day11/da02_linked_list_practice.py)
-    - 이중연결 리스트, 원형 리스트 
+- 연결리스트 :  [파이썬](./day11/da01_linked_list.py)
+    - 연결리스트 실습 : 주소록 [파이썬](./day11/da02_linked_list_practice.py)
+    - 이중연결 리스트 : 앞에서 검색, 뒤에서 검색 용이
+    - 원형 리스트 : 시작노드 변경시 오버헤드 없음 [파이썬](./day11/da02_circle_list_practice.py)
     - 파이썬 list() : 연결리스트와 유사    
+
+- 스택 : [노트북](./day11/da03_stack.ipynb)
+    - 스택 실습 : 웹사이트 방문 기록 [파이썬](./day11/da04_stack_practice.py)
+
+- 큐 : [노트북](./day11/da04_queue.ipynb)
+
