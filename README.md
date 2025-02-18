@@ -67,3 +67,22 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
 
 - 큐 : [노트북](./day11/da04_queue.ipynb)
 
+
+### 12일차 : 2월 18일 
+- 백준 코딩 
+    - `문자열 : 역순은 슬라이싱 [::-1] `
+    - 큐 , 스택
+
+- 큐
+    - `전역변수로 선언한 변수들을 def() 함수 내에서 값을 변경해야 할 때, global을 쓴다.`
+    - 스택의 peek() : stack[top]
+    - 큐의 peek() : queue[front+1]
+
+- 원형큐
+    - 
+    
+- 이진트리
+    - 포화 이진 트리 : 모든 노드의 차수가 2인 것 <img src ='https://velog.velcdn.com/images/seochan99/post/c4e0bd13-a15f-47da-aa1d-5632e7e81e94/image.png' width =300>
+    - 완전 이진 트리 : <img src =https://velog.velcdn.com/images/seochan99/post/2c8de65b-062a-4632-afd8-9b28ad785f1c/image.png width =300>
+    - 일반 이진 트리 :<img src =  https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCKHWl%2FbtrRY1UM8jm%2FJkAVBnpwUQOaoKuuwcV2vK%2Fimg.png width =300>
+    - 편향 이진 트리 : <img src = https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPEvrB%2FbtrR1gqqTZR%2F7w5nQZ54VJD4V2hYvkKrl1%2Fimg.png  width =300>

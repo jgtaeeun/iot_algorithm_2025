@@ -50,11 +50,38 @@
 # print(idx)
 # # print(ord('a'), ord('z')) # 97 122
 
-s = input()
-abc ='abcdefghijklmnopqrstuvwxyz'
+# s = input()
+# abc ='abcdefghijklmnopqrstuvwxyz'
 
-for i in abc:
-    if i in s:
-       print(s.index(i), end=' ')
-    else :
-        print(-1 , end=' ') 
+# for i in abc:
+#     if i in s:
+#        print(s.index(i), end=' ')
+#     else :
+#         print(-1 , end=' ') 
+
+# 문자열 반복
+# T = int(input())
+# for _ in range(T):
+#     R, S = input().split()
+#     R= int(R)
+#     for i in  S:
+#         print( i * R , end='')
+#     print()   
+
+# 단어 개수 세기
+# T = list(input().split())
+# print(len(T))
+
+# 거꾸로 숫자읽어 크기 비교
+A, B = input().split()
+# A =int( A[2] + A[1] + A[0])
+# B =int( B[2] + B[1] + B[0])
+A = A [::-1]
+B = B [::-1]
+if A >B :
+    print(A)
+elif A <B :
+    print(B)
+else :
+    print(A, B)
+
