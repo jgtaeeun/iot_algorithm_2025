@@ -94,5 +94,20 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
         - 후위순회
 
 ### 13일차 : 2월 19일 
+- deQue(데크) [노트북](./day11/da04_queue.ipynb)
+    ```python
+    # deque(데크) collections에서 임포트
+    from collections import deque
+    ```
+    - 큐(append, popleft), 스택(append, pop) 구현 
+- 리스트, append(push와 동일), pop으로 스택을 구현가능
 - 그래프
+    - 방향, 무방향 , 가중치
+    - 인접행렬 표현 [노트북](./day13/da01_graph.ipynb)
+        - 의미 없는 값도 행렬에 저장되니 비효율적
+        - 무방향의 경우, 대각선을 기준으로 대칭
+    - 깊이 우선 탐색 [파이썬](./day13/da02_dfs.py)
+        - 스택, 방문기록 리스트
+    - 신장 트리 
+        - 최소간선 : 정점의 개수 - 1
 - 재귀호출
