@@ -84,9 +84,9 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
 - 이진트리 [파이썬](./day12/da03_binary_tree.py)
     - 종류
         - 포화 이진 트리 : 모든 노드의 차수가 2인 것 <img src ='https://velog.velcdn.com/images/seochan99/post/c4e0bd13-a15f-47da-aa1d-5632e7e81e94/image.png' width =300>
-        - 완전 이진 트리 : <img src =https://velog.velcdn.com/images/seochan99/post/2c8de65b-062a-4632-afd8-9b28ad785f1c/image.png width =300>
-        - 일반 이진 트리 :<img src =  https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCKHWl%2FbtrRY1UM8jm%2FJkAVBnpwUQOaoKuuwcV2vK%2Fimg.png width =300>
-        - 편향 이진 트리 : <img src = https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPEvrB%2FbtrR1gqqTZR%2F7w5nQZ54VJD4V2hYvkKrl1%2Fimg.png  width =300>
+        - 완전 이진 트리 : <img src ='https://velog.velcdn.com/images/seochan99/post/2c8de65b-062a-4632-afd8-9b28ad785f1c/image.png' width =300>
+        - 일반 이진 트리 :<img src =  'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCKHWl%2FbtrRY1UM8jm%2FJkAVBnpwUQOaoKuuwcV2vK%2Fimg.png' width =300>
+        - 편향 이진 트리 : <img src = 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPEvrB%2FbtrR1gqqTZR%2F7w5nQZ54VJD4V2hYvkKrl1%2Fimg.png'  width =300>
     
     - 순회 [노트북](./day12/da03_binary_tree.ipynb)
         - 전위순회
@@ -120,4 +120,11 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
 
 
 ### 14일차 : 2월 20일 
+- markDown에서 테이블 만들기 
+    - --(왼쪽정렬) --:(오른쪽정렬) :--: (중앙정렬)
+    ![alt text](image.png)
+    
 - 재귀호출 연습
+    - 배열의 합산 ,회문판단 [노트북](./day14/da01_recursive_practice.ipynb)
+    - fractal , 시에르핀스키 삼각형 [파이썬](./day14/da02_fractal02.py)
+- 정렬
