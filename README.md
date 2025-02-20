@@ -127,4 +127,22 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
 - 재귀호출 연습
     - 배열의 합산 ,회문판단 [노트북](./day14/da01_recursive_practice.ipynb)
     - fractal , 시에르핀스키 삼각형 [파이썬](./day14/da02_fractal02.py)
+    
+- 정렬 [노트북](./day14/da04_sort.ipynb)
+    - [정렬시각화 참고사이트](https://visualgo.net/en/sorting)
+    - 선택정렬 [파이썬](./day14/da04_sort_practice01.py)
+    - 삽입정렬 [파이썬](./day14/da04_sort_practice02.py)
+    - 버블정렬 , 버블 정렬 시간복잡도 최선O(n)
+
+
+ 
+### 15일차 : 2월 21일   
 - 정렬
+    - 퀵정렬
+    - 정렬 알고리즘 응용
+
+- 동적 계획법
+
+### 16일차 : 2월 24일  
+- 검색
+- 코딩 테스트
