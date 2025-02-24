@@ -170,4 +170,5 @@ iot 개발자 자료구조와 알고리즘(코딩테스트 포함)
       - ary[mid] 작다 -> end = mid-1
       - ary[mid] 보다 크다 -> stat = mid +1
     - 이진트리검색
+- visual studio community , docker 설치 (C:\Source\iot_python_2025\DEVINSTALL.md)
 - 코딩 테스트
